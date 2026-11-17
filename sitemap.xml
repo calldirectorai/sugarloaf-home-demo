@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://calldirectorai.github.io/sugarloaf-home-demo/services/</loc>
+    <lastmod>2026-11-17T02:49:19.296Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://calldirectorai.github.io/sugarloaf-home-demo/</loc>
-    <lastmod>2026-11-17T02:48:04.969Z</lastmod>
+    <lastmod>2026-11-17T02:48:16.382Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
