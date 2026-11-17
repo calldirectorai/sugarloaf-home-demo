@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://calldirectorai.github.io/sugarloaf-home-demo/book/</loc>
+    <lastmod>2026-11-17T02:54:59.210Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://calldirectorai.github.io/sugarloaf-home-demo/barbers/</loc>
     <lastmod>2026-11-17T02:54:53.495Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -18,11 +23,6 @@
   <url>
     <loc>https://calldirectorai.github.io/sugarloaf-home-demo/visit/</loc>
     <lastmod>2026-11-17T02:54:32.247Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://calldirectorai.github.io/sugarloaf-home-demo/book/</loc>
-    <lastmod>2026-11-17T02:53:55.637Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
